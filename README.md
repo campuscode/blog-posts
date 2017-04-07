@@ -27,6 +27,8 @@ Temas | Branch | Autor
 [x] Lista de empresas e devs brasileiros para seguir | dev_list | Giovanni Naufal
 [ ] Como se manter atualizado nas novidades do Rails | rails_news
 [ ] Boas ideias de projetos para iniciantes | beginer_projects
+[ ] Primeiros passos com o dotfiles do Campus Code | cc_dotfiles
+[ ] Configurando Docker em uma aplicação Rails | docker_rails
 [ ] Sugira seu tema!
 
 ## Dúvidas?
