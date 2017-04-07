@@ -21,14 +21,14 @@ Masters, será publicado em nosso blog no Medium.
 ## Quais são os temas?
 Temas | Branch | Autor
 ------|--------|------
-- [x] Testes no Rails Admin | rails_admin_tests | Giovanni Naufal
-- [x] Testes de API | api_tests | Flavio Visetti
-- [x] Testes Rake | rake_tests | Vinicius Lima
-- [x] Lista de empresas e devs brasileiros para seguir | dev_list | Giovanni
+[x] Testes no Rails Admin | rails_admin_tests | Giovanni Naufal
+[x] Testes de API | api_tests | Flavio Visetti
+[x] Testes Rake | rake_tests | Vinicius Lima
+[x] Lista de empresas e devs brasileiros para seguir | dev_list | Giovanni
   Naufal
-- [ ] Como se manter atualizado nas novidades do Rails | rails_news
-- [ ] Boas ideias de projetos para iniciantes | beginer_projects
-- [ ] Sugira seu tema!
+[ ] Como se manter atualizado nas novidades do Rails | rails_news
+[ ] Boas ideias de projetos para iniciantes | beginer_projects
+[ ] Sugira seu tema!
 
 ## Dúvidas?
 Abra uma issue ou fale conosco no [twitter](http://twitter.com/campuscodebr) ou
