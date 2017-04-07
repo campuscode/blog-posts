@@ -8,13 +8,12 @@ Code](http://medium.com/campuscode "Nosso Medium")
 Todo e qualquer Campus Coder (aluno ou ex-aluno)
 
 ## Como escrever/Como contribuir?
-Você escreverá seus posts em [Markdown](https://guides.github.com/features/mastering-markdown/), que depois de uma revisão dos nossos Dev
-Masters, será publicado em nosso blog no Medium.
+Você escreverá seus posts em [Markdown](https://guides.github.com/features/mastering-markdown/), que depois de uma revisão dos nossos Dev Masters, será publicado em nosso blog no Medium.
 
 1. Escolha um tema deste arquivo ou sugira um novo tema de seu interesse
 2. Faça fork desse repositório
 3. Clone o repositório em sua máquina
-4. Crie uma nova branch correspondente ao seu tema escolhido
+4. Crie uma nova branch correspondente ao tema escolhido
 5. Crie um pull request com sua branch
 6. Aguarde o contato de um dos devs do Campus code para ajudar com seu texto!
 
@@ -26,7 +25,7 @@ Temas | Branch | Autor
 [x] Testes Rake | rake_tests | Vinicius Lima
 [x] Lista de empresas e devs brasileiros para seguir | dev_list | Giovanni Naufal
 [ ] Como se manter atualizado nas novidades do Rails | rails_news
-[ ] Boas ideias de projetos para iniciantes | beginer_projects
+[ ] Boas ideias de projetos para iniciantes | beginner_projects
 [ ] Primeiros passos com o dotfiles do Campus Code | cc_dotfiles
 [ ] Configurando Docker em uma aplicação Rails | docker_rails
 [ ] Sugira seu tema!
