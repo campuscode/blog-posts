@@ -15,7 +15,7 @@ Você escreverá seus posts em [Markdown](https://guides.github.com/features/mas
 3. Clone o repositório em sua máquina
 4. Crie uma nova branch correspondente ao tema escolhido
 5. Crie um pull request com sua branch
-6. Aguarde o contato de um dos devs do Campus code para ajudar com seu texto!
+6. Aguarde o contato de um dos devs do Campus Code para ajudar com seu texto!
 
 ## Quais são os temas?
 Temas | Branch | Autor
